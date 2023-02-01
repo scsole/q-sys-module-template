@@ -14,5 +14,5 @@ An example Q-Sys lua module.
 
 ```lua
 local myModule = require('template')
-myModule.HelloWorld
+myModule.HelloWorld()
 ```
