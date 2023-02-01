@@ -1,6 +1,8 @@
 # Q-Sys Template Module
 
-An example Q-SYS lua module.
+An example Q-Sys lua module.
+
+[![Luacheck](https://github.com/scsole/q-sys-module-template/actions/workflows/luacheck.yml/badge.svg)](https://github.com/scsole/q-sys-module-template/actions/workflows/luacheck.yml)
 
 ## Quick start
 
