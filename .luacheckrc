@@ -223,3 +223,4 @@ stds.qsys = {
   }
 }
 std = "max+qsys"
+ignore = { "212/_.*", "211/_.*", "213/_.*" } -- Unused variables beginning with _
